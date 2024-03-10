@@ -1,0 +1,10 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 9EA7-FEE2
+
+ R‚pertoire de C:\Users\itsas\Desktop\myApp
+
+10/03/2024  15:24    <DIR>          .
+10/03/2024  15:15    <DIR>          ..
+10/03/2024  15:24                 0 File01.txt
+               1 fichier(s)                0 octets
+               2 R‚p(s)  22ÿ642ÿ847ÿ744 octets libres
